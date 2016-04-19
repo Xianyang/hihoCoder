@@ -34,7 +34,6 @@ while True:
             maxCount = max(maxCount, len(subSequence))
             j += 1
             i = j
-            continue
         else:
             maxCount = max(maxCount, len(subSequence))
             j += 1
