@@ -1,5 +1,6 @@
 import itertools
 
+
 class Candidate:
     def __init__(self, index, information):
         self.index = index + 1
